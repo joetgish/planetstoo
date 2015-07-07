@@ -3,3 +3,4 @@ Jupiter is a very large planet.
 Which moons orbit Jupiter.
 
 TOF to Jupiter precludes life.
+TOF in years vs days will be used.
