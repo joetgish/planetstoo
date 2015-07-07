@@ -4,3 +4,5 @@ Oxygen
 DVD's
 
 air for rover tires
+telescope
+antenna
