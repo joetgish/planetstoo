@@ -1,2 +1,5 @@
 Jupiter is a very large planet.
 How many AU from Earth?
+Jupiter info bullets:
+	1.
+	2.
