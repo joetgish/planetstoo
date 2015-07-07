@@ -5,5 +5,5 @@ Oxygen
 DVD's
 
 air for rover tires
-telescope
-antenna
+ensure nozzles for hoses are available
+bring duct tape
