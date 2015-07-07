@@ -3,3 +3,8 @@ How many AU from Earth?
 Jupiter info bullets:
 	1.
 	2.
+
+
+Jupiter info bullets:
+	3.
+	4.
